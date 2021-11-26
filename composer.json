@@ -1,0 +1,21 @@
+{
+    "name": "anggira99/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Anggira99\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "anggira99",
+            "email": "anggira.ganda@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
